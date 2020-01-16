@@ -1,6 +1,6 @@
 # Cambia Health Solutions Open Source
 
-Cambia Health Solutions proud to contribute to the open source community. Our cause is to serve as catalyst to transform health care, creating a person-focused and economically sustainable health-care system. One of the ways we fulfill our cause is by contributing our code to accelerate the efforts of those developing innovative health-care applications. Changes in health care will come from many directions and we want to be part of building the ecosystem and resources that foster rapid, creative solutions.
+Cambia Health Solutions proud to contribute to the open source community. Our Cause is to serve as catalyst to transform health care, creating a person-focused and economically sustainable health-care system. One of the ways we fulfill our cause is by contributing our code to accelerate the efforts of those developing innovative health-care applications. Changes in health care will come from many directions and we want to be part of building the ecosystem and resources that foster rapid, creative solutions.
 
 ## Code of Conduct
 We adhere to the [Contributor Covenant Code of Conduct v2.0](code_of_conduct.md) for Open Source Projects. We are overt in our openness and welcome all people to contribute, pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation and understanding. 
