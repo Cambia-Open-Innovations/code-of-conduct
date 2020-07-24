@@ -7,22 +7,12 @@ This guide provide instructions on how to contribute to Cambia Health Solutions'
 
 
 
-## Review the project's README.md
-1. Review a project's specific rules or guidance for contributions
-2. Review instructions on how to build the project in your local environment
-3. Review third party dependencies, if any
-4. ad
-5. ad
-
-
-
-    ○ The best Contributors files are meta, with links to detailed documents
-        § Reporting defects
-            □ Issue templates
-        § Style guide
-        § CI/CD guide
-            □ Who is setting up and maintaining the Travis (or whatever) solution?
-        § Community forums, etc..
-        § Code of Conduct!
-
-## Defect Management
+## Items to review for the projuect:
+1. The README.md
+2. The code of conduct
+3. Any specific rules or guidance for contributions
+4. Instructions on how to build the project in your local environment
+5. Third party dependencies, if any
+6. Communication guidelines
+7. The style guide
+8. The defect tracking process
