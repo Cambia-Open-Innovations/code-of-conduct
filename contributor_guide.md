@@ -7,7 +7,7 @@ This guide provide instructions on how to contribute to Cambia Health Solutions'
 
 
 
-## Items to review for the projuect:
+## Items to review for each project:
 1. The README.md
 2. The code of conduct
 3. Any specific rules or guidance for contributions
