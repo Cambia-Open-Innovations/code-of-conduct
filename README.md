@@ -28,6 +28,6 @@ We also have the following development principles.  In priority order, they are:
 Please see our [Contributor Guide](contributor_guide.md) for getting started.
 
 ## License and Copyright
-Cambia Health Solutions releases it's code under the [Apache 2.0 license](LICENSE). Copyright for all code released is held by Cambia Health Solutions.
+Cambia Health Solutions releases its code under the [Apache 2.0 license](LICENSE). Copyright for all code released is held by Cambia Health Solutions.
 
 
